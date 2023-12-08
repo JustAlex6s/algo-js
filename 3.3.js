@@ -5,11 +5,11 @@ let tab=["Alice","Jerem","Alexis","Winona","Cass","Julien","Hanen"];
 let tab2=[];
 
 
-//for (let elem of tab){
-//    tab2.push(elem);
-//}
+for (let elem of tab){
+  tab2.push(elem);
+}
 
-//console.log(tab2);
+console.log(tab2);
 
-let tab3 = tab.concat(tab2);
-console.log (tab3);
+//let tab3 = tab.concat(tab2);
+//console.log (tab3);
