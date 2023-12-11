@@ -1,5 +1,4 @@
 //Create a function factorial(a) that returns the factorial of a number. Cette fonction doit être récursive.
-//
 function factorial (a){
     if (a == 0){
         return 1;
